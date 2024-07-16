@@ -50,6 +50,6 @@ variable "instance_ami" {
 }
 
 variable "keyname" {
-  default = "three-tier-app"
+  
 }
 
