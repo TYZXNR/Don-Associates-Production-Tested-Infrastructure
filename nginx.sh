@@ -13,7 +13,7 @@ sudo systemctl enable nginx
 sudo systemctl start nginx
 
 # Check Nginx status
-sudo systemctl status nginx
+#sudo systemctl status nginx
 
 # Print Nginx version
 nginx -v
